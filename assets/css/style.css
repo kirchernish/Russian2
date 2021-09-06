@@ -1,0 +1,33 @@
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    text-align: center;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+    border: solid 5px rgb(247, 227, 202);
+}
+
+.header h2 {
+    font-size: 25px;
+}
+
+.content {
+    width: 50%;
+    margin: 0 25% 0 25%;
+    border: solid rgb(230, 224, 224) 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+
+.content p {
+    text-align: center;
+}
